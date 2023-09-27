@@ -6,9 +6,9 @@
 
 // Crea una variable de tipo string.
 const nuevoString = "hola";
- 
+
 // Crea una variable de tipo number.
-const nuevoNumero = 2;
+const nuevoNumero = 10;
 
 // Crea una variable de tipo boolean.
 const nuevoBoolean = false;
